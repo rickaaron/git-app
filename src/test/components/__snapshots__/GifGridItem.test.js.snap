@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas gif Grid Item debe mostrar el componente  1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Prueba"
+    src="https:google.com"
+  />
+  <h3>
+    Prueba
+  </h3>
+</div>
+`;
